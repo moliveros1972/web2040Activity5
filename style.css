@@ -1,0 +1,32 @@
+.bgimage {
+	height: 600px;
+}
+#monkeyDiv {
+	position:relative;
+	top:  -240px;
+	left:  564px;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none; 
+}
+#buttonsHere {
+	position:relative;
+	top: -600px;
+	left: 564px;
+}
+#lilBox {
+	height: 30px;
+	width: 10px;
+	padding: 60px 60px;
+	background-color: red;
+	border: 1px solid white;
+	font-size: 40px;
+	position:relative;
+	top: -854px;
+	left: 600px;
+}
